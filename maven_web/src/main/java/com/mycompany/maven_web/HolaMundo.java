@@ -10,5 +10,7 @@ package com.mycompany.maven_web;
  * @author Niko
  */
 public class HolaMundo {
-    
+   public static void main(String[] args){
+          System.out.println("Hola Mundo. ");
+	} 
 }
